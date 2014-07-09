@@ -1,0 +1,704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"describe"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"Character",
+				"CharactersCollection"
+			],
+			[
+				"chara",
+				"characters"
+			],
+			[
+				"asser",
+				"assert_not_nil"
+			],
+			[
+				"asset",
+				"assert_not_nil"
+			],
+			[
+				"fish",
+				"fish_plugins"
+			],
+			[
+				"uplo",
+				"upload_folder_path"
+			],
+			[
+				"upload",
+				"upload_path"
+			],
+			[
+				"month",
+				"month_folder"
+			],
+			[
+				"mon",
+				"month_folder"
+			],
+			[
+				"yea",
+				"year_folder"
+			],
+			[
+				"alert",
+				"alert-warning"
+			],
+			[
+				"file",
+				"file_to_upload"
+			],
+			[
+				"en",
+				"engineer"
+			],
+			[
+				"sw",
+				"swordsman"
+			],
+			[
+				"al",
+				"alchimiste"
+			],
+			[
+				"kali",
+				"kali"
+			],
+			[
+				"cler",
+				"cleric"
+			],
+			[
+				"sorc",
+				"sorceress"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"sl",
+				"slugFinal"
+			],
+			[
+				"link",
+				"link_to_route"
+			],
+			[
+				"topics",
+				"topics"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"qua",
+				"qualityString"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"or",
+				"orbit_arrow"
+			],
+			[
+				"orbit",
+				"orbit-container"
+			],
+			[
+				"orbi-",
+				"orbit-container-home"
+			],
+			[
+				"val",
+				"validity"
+			],
+			[
+				"topic",
+				"topic_tags"
+			],
+			[
+				"is",
+				"isnt"
+			],
+			[
+				"sear",
+				"search_tags"
+			],
+			[
+				"topi",
+				"topic_tags_search"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"top",
+				"topicTags"
+			],
+			[
+				"tag",
+				"tag"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"topc",
+				"topic_tags"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"repl",
+				"reply_form"
+			],
+			[
+				"con",
+				"converter1"
+			],
+			[
+				"user",
+				"user_vote"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dis",
+				"dish_params"
+			],
+			[
+				"ingre",
+				"ingredient"
+			],
+			[
+				"remove",
+				"removeIngredient"
+			],
+			[
+				"add",
+				"addIngredient"
+			],
+			[
+				"search",
+				"search_ingredient"
+			],
+			[
+				"di",
+				"dishes"
+			],
+			[
+				"dishes",
+				"dishes_ingredients"
+			],
+			[
+				"dish",
+				"dishes_ingredients"
+			],
+			[
+				"inde",
+				"ingredients"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 105.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i nstal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa co",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pkc up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 615.0
+	},
+	"console":
+	{
+		"height": 140.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dexyne/Sites/data-nest/Rakefile",
+		"/home/dexyne/Sites/data-nest/Gemfile",
+		"/home/dexyne/Sites/data-nest/config/application.rb",
+		"/home/dexyne/Sites/data-nest/app/collections/characters_collection.rb",
+		"/home/dexyne/Sites/data-nest/test/models/character_test.rb",
+		"/home/dexyne/Sites/data-nest/test/fixtures/characters.yml",
+		"/home/dexyne/Sites/data-nest/config/application.yml",
+		"/home/dexyne/Sites/data-nest/tmp/cache/assets/development/sprockets/cffd775d018f68ce5dba1ee0d951a994",
+		"/home/dexyne/Sites/data-nest/config/guacamole.yml",
+		"/home/dexyne/Sites/data-nest/app/controllers/characters_controller.rb",
+		"/home/dexyne/Sites/data-nest/app/helpers/characters_helper.rb",
+		"/home/dexyne/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/dexyne/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/dexyne/Sites/data-nest/test/factories.rb",
+		"/home/dexyne/Sites/data-nest/app/views/characters/index.html.slim",
+		"/home/dexyne/Sites/data-nest/app/views/characters/show.html.slim",
+		"/home/dexyne/Sites/data-nest/log/development.log",
+		"/home/dexyne/Sites/blango/app/controllers/articles_controller.rb",
+		"/home/dexyne/Sites/data-nest/app/views/layouts/application.html.slim",
+		"/home/dexyne/Sites/data-nest/app/models/.keep",
+		"/home/dexyne/Sites/data-nest/config/initializers/mime_types.rb",
+		"/home/dexyne/Sites/data-nest/test-unit.yml",
+		"/home/dexyne/Sites/data-nest/app/controllers/application_controller.rb",
+		"/home/dexyne/Sites/data-nest/config/environments/development.rb",
+		"/home/dexyne/Sites/data-nest/config.ru",
+		"/home/dexyne/Sites/blango/config/application.rb",
+		"/home/dexyne/Sites/dotmanga/config/application.rb",
+		"/home/dexyne/Sites/data-nest/test/helpers/characters_helper_test.rb",
+		"/home/dexyne/Sites/data-nest/test/controllers/characters_controller_test.rb",
+		"/home/dexyne/Sites/data-nest/config/environments/test.rb",
+		"/home/dexyne/Sites/blango/config/guacamole.yml",
+		"/home/dexyne/Sites/upla/upla.sublime-project",
+		"/home/dexyne/Sites/upla/views/layout.slim",
+		"/home/dexyne/.config/fish/config.fish",
+		"/home/dexyne/.zshrc",
+		"/home/dexyne/.config/sublime-text-3/Packages/User/codeivate-st.sublime-settings",
+		"/home/dexyne/.config/sublime-text-3/Packages/codeivate-st/codeivate-st.sublime-settings",
+		"/home/dexyne/Sites/upla/views/home.slim",
+		"/home/dexyne/Sites/upla/Gemfile",
+		"/home/dexyne/Sites/upla/package.json",
+		"/home/dexyne/Bureau/links to opera links",
+		"/home/dexyne/Sites/upla/upla.rb",
+		"/home/dexyne/.bashrc",
+		"/home/dexyne/Sites/upla/.gitignore",
+		"/home/dexyne/Sites/upla/Procfile",
+		"/tmp/fz3temp-1/start.php",
+		"/tmp/fz3temp-1/app 2.php",
+		"/tmp/fz3temp-1/app.php",
+		"/home/dexyne/Sites/upla/README.md",
+		"/home/dexyne/Sites/upla/views/layout.haml",
+		"/home/dexyne/Sites/upla/assets/sass/application.scss",
+		"/home/dexyne/Sites/upla/gulpfile.coffee",
+		"/home/dexyne/Sites/upla/public/uploads/.gitkeep",
+		"/home/dexyne/Sites/upla/config.rb",
+		"/home/dexyne/Sites/upla/views/home.haml",
+		"/home/dexyne/Sites/upla/uploads/.gitkeep",
+		"/home/dexyne/Sites/upla/public/css/style.css",
+		"/home/dexyne/Sites/upla/gulpfile.js",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/home/index.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/lang/fr/jobs.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/seeds/JobTableSeeder.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/lang/en/jobs.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/models/Job.php",
+		"/home/dexyne/Sites/dragon-nest-france/composer.json",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/seeds/ItemTableSeeder.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_01_19_201718_add_slug_to_characters.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_02_193121_unique_slug_to_characters.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/layouts/_navigation.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_02_204114_add_slug_to_jobs.php",
+		"/home/dexyne/Sites/dragon-nest-france/provider/assets/bower_components/modernizr/feature-detects/a-download.js",
+		"/home/dexyne/Sites/dragon-nest-france/app/config/app.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_16_165052_remove_icon_column.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_16_161620_rename_icon_column_to_en_name.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/predis/predis/lib/Predis/Command/KeyRename.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/maximebf/debugbar/docs/rendering.md",
+		"/home/dexyne/Sites/dragon-nest-france/readme.md",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_16_161407_remove_icon_and_add_en_name_columns.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/config/remote.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/models/ReadMark.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/assets/stylesheets/base.css.scss",
+		"/home/dexyne/Sites/dragon-nest-france/app/assets/stylesheets/ie.scss",
+		"/home/dexyne/Sites/dragon-nest-france/app/assets/stylesheets/guilds.css.scss",
+		"/home/dexyne/Sites/dragon-nest-france/.sass-cache/a300ba87fae723cd6ecd84635ee844600816ad39/application.scssc",
+		"/home/dexyne/Sites/dragon-nest-france/app/config/packages/barryvdh/laravel-debugbar/config.php",
+		"/home/dexyne/Sites/dragon-nest-france/provider/assets/bower_components/modernizr/feature-detects/css-objectfit.js",
+		"/home/dexyne/Sites/dragon-nest-france/CONTRIBUTING.md",
+		"/home/dexyne/Sites/dragon-nest-france/app/config/packages/vtalbot/markdown/config.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/config/packages/toddish/verify/config.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/config/packages/codesleeve/asset-pipeline/config.php",
+		"/home/dexyne/Sites/dragon-nest-france/public/stylesheets/application.css",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/composer/autoload_psr4.php",
+		"/home/dexyne/Sites/dragon-nest-france/artisan",
+		"/etc/php5/cli/php.ini",
+		"/home/dexyne/.config/sublime-text-3/Packages/User/PHP.sublime-settings",
+		"/home/dexyne/Sites/dragon-nest-france/dragon-nest-france.sublime-project",
+		"/media/dexyne/3099B0A563512E82/links to opera.txt",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/seeds/DatabaseSeeder.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/nesbot/carbon/tests/AddTest.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_02_193039_unique_slug_to_guilds.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_02_184209_add_slug_to_jobs.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/justinrainbow/json-schema/tests/JsonSchema/Tests/Constraints/UniqueItemsTest.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/swiftmailer/swiftmailer/test-suite/templates/sweety/suite-ui-noajax.tpl.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/models/User.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/controllers/ItemsController.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/models/Item.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/nesbot/carbon/tests/IsTest.php",
+		"/home/dexyne/Sites/dragon-nest-france/public/index.php",
+		"/home/dexyne/Sites/dragon-nest-france/provider/assets/bower_components/modernizr/feature-detects/unicode.js",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_02_165538_unique_slug_to_guilds.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_02_192715_unique_slug_to_characters.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/predis/predis/lib/Predis/Command/SetUnionStore.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/cboden/ratchet/tests/unit/Http/OriginCheckTest.php",
+		"/home/dexyne/Sites/dragon-nest-france/vendor/swiftmailer/swiftmailer/tests/unit/Swift/CharacterStream/ArrayCharacterStreamTest.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_02_02_165538_unique_slug_to_guilds_and_characters.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/database/migrations/2014_01_19_230230_add_slug_to_guilds.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/routes.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/topics/show.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/topics/index.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/guides/index.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/helpers/_tags.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/characters/create.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/topics/edit.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/topics/create.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/users/show.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/users/index.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/users/edit.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/users/guilds.blade.php",
+		"/home/dexyne/Sites/dragon-nest-france/app/views/users/dashboard.blade.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<%",
+			"%>",
+			"%",
+			"'en_name'",
+			"icon",
+			"to_title",
+			"qualityInString",
+			"columns",
+			"button",
+			"Completed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"en_name",
+			"Validated"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "unity3d-base.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"configapp",
+				"config/application.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"characon",
+				"app/controllers/characters_controller.rb"
+			],
+			[
+				"characcontro",
+				"app/controllers/characters_controller.rb"
+			],
+			[
+				"configappr",
+				"config/application.rb"
+			],
+			[
+				"gua",
+				"config/guacamole.yml"
+			],
+			[
+				"collec",
+				"app/collections/characters_collection.rb"
+			],
+			[
+				"modelc",
+				"app/models/character.rb"
+			],
+			[
+				"controllerchara",
+				"app/controllers/characters_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"config/ga",
+				"config/guacamole.yml"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"testchara",
+				"test/controllers/characters_controller_test.rb"
+			],
+			[
+				"guaca",
+				"config/guacamole.yml"
+			],
+			[
+				"josee",
+				"app/database/seeds/JobTableSeeder.php"
+			],
+			[
+				"jobtablesee",
+				"app/database/seeds/JobTableSeeder.php"
+			],
+			[
+				"addslugjob",
+				"app/database/migrations/2014_02_02_204114_add_slug_to_jobs.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"renameicon",
+				"app/database/migrations/2014_02_16_161620_rename_icon_column_to_en_name.php"
+			],
+			[
+				"remoicon",
+				"app/database/migrations/2014_02_16_161407_remove_icon_and_add_en_name_columns.php"
+			],
+			[
+				"jotables",
+				"app/database/seeds/JobTableSeeder.php"
+			],
+			[
+				"applscss",
+				"app/assets/stylesheets/base.css.scss"
+			],
+			[
+				"appconfig",
+				"app/config/app.php"
+			],
+			[
+				"addsljob",
+				"app/database/migrations/2014_02_02_204114_add_slug_to_jobs.php"
+			],
+			[
+				"uniqueguil",
+				"app/database/migrations/2014_02_02_193039_unique_slug_to_guilds.php"
+			],
+			[
+				"uniq",
+				"app/database/migrations/2014_02_02_193121_unique_slug_to_characters.php"
+			],
+			[
+				"uniqslugchara",
+				"app/database/migrations/2014_02_02_193121_unique_slug_to_characters.php"
+			],
+			[
+				"unisl",
+				"app/database/migrations/2014_02_02_192715_unique_slug_to_characters.php"
+			],
+			[
+				"uniqeslug",
+				"app/database/migrations/2014_02_02_165538_unique_slug_to_guilds_and_characters.php"
+			],
+			[
+				"addsljo",
+				"app/database/migrations/2014_02_02_184209_add_slug_to_jobs.php"
+			],
+			[
+				"uniqueslu",
+				"app/database/migrations/2014_02_02_165538_unique_slug_to_guilds_and_characters.php"
+			],
+			[
+				"appjs",
+				"public/javascripts/application.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
